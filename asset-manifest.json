@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.59a5e783.css",
+    "main.js": "/portfolio-website/static/js/main.c2946832.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/rescuemeals.png": "/portfolio-website/static/media/rescuemeals.c9aa07a5cda5b2b4bbae.png",
+    "static/media/imagegen.png": "/portfolio-website/static/media/imagegen.efe7fa845f05c76065dd.png",
+    "static/media/leaf.png": "/portfolio-website/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio-website/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/gutargu.png": "/portfolio-website/static/media/gutargu.0ee4d365215ad887b454.png",
+    "static/media/codeEditor.png": "/portfolio-website/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/aj.pdf": "/portfolio-website/static/media/aj.5ef3fb1b1188f0bef9ab.pdf",
+    "static/media/xpense-logger.png": "/portfolio-website/static/media/xpense-logger.f96c22a3f7edbc24b75b.png",
+    "static/media/home-main.svg": "/portfolio-website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/portfolio-website/static/media/logo.5e1007890195b48b2655.png",
+    "static/media/home-bg.jpg": "/portfolio-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio-website/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio-website/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio-website/index.html",
+    "main.59a5e783.css.map": "/portfolio-website/static/css/main.59a5e783.css.map",
+    "main.c2946832.js.map": "/portfolio-website/static/js/main.c2946832.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a5e783.css",
+    "static/js/main.c2946832.js"
+  ]
+}
